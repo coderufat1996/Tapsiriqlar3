@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
             int a = 9;
+            int b = 10;
+            int c = 10;
+
         }
     }
 }
